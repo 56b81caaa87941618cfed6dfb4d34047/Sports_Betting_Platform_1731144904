@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements do you want to include in the pink form for the token swapping process?\", \"option1\": \"Input fields for token amounts\", \"option2\": \"Drop-down lists for token selection\"}, {\"question 2\": \"How would you like the overall layout of the pink form to be structured?\", \"option1\": \"Single column layout\", \"option2\": \"Two-column layout with side-by-side elements\"}], \"input_token_count\": 297, \"output_token_count\": 99, \"time_taken\": \"0:00:01.403205\"}",
+        "timestamp": "09112024093732",
+        "message_id": "guest09112024063713"
+    },
+    {
         "role": "user",
         "content": "replace with a uniswap-style pink form for swapping tokens",
         "timestamp": "09112024093730",
