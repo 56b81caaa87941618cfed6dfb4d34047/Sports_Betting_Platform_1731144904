@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a swap history section to track past transactions\", \"checked\": false}, {\"feature\": \"Implement a confirmation modal before executing swaps\", \"checked\": true}, {\"feature\": \"Incorporate a live price ticker for the tokens being swapped\", \"checked\": false}, {\"feature\": \"Create a tooltip guide for first-time users\", \"checked\": true}, {\"feature\": \"Enable customization options for theme colors\", \"checked\": false}], \"input_token_count\": 251, \"output_token_count\": 103, \"time_taken\": \"0:00:01.659938\"}",
+        "timestamp": "09112024093737",
+        "message_id": "guest09112024063713"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements do you want to include in the pink form for the token swapping process?\", \"option1\": \"Input fields for token amounts\", \"option2\": \"Drop-down lists for token selection\"}, {\"question 2\": \"How would you like the overall layout of the pink form to be structured?\", \"option1\": \"Single column layout\", \"option2\": \"Two-column layout with side-by-side elements\"}], \"input_token_count\": 297, \"output_token_count\": 99, \"time_taken\": \"0:00:01.403205\"}",
         "timestamp": "09112024093732",
